@@ -6,6 +6,6 @@ USAGE:
 
 2)enter "python main.py"
 
-REQUIREMENTS
+REQUIREMENTS:
 
 python 
