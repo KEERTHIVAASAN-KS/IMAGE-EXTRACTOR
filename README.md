@@ -2,10 +2,14 @@ IMAGE-EXTRACTOR is a simple tool which extracts the images from the given url.It
 
 USAGE:
 
-1)change current working directory to the directory of image extractor folder in command prompt
+enter "pip install -r requirements.txt" after changing the current working directory to directory of requirements.txt
 
-2)enter "python main.py"
+change current working directory to the directory of image extractor folder in command prompt
+
+enter "python main.py"
 
 REQUIREMENTS:
 
 python 
+
+pip
